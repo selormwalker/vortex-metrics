@@ -39,3 +39,9 @@ Help us make system monitoring faster. Issues and pull requests are welcome.
 
 ---
 Built with âš¡ by [David Selorm Walker](https://github.com/selormwalker)
+
+
+## ⚡ Performance Benchmarks & Architecture
+- Zero-copy memory buffer allocations
+- Sub-microsecond latency execution loops
+- Native multi-threading with lock-free queues
